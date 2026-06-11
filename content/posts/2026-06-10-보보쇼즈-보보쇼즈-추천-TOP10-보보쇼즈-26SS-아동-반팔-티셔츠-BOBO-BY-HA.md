@@ -14,7 +14,7 @@ cover:
   relative: false
 images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/43c4/e03193964314d7840b5b10cc6d16f4003a68ae74fc8a56b21da62adcb324.jpeg"]
 ---
-
+<style>@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0 12px!important}.cpg-btn{display:block!important;width:100%;box-sizing:border-box;text-align:center;padding:14px!important;font-size:16px!important}}</style>
 **보보쇼즈** 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다.
 
 > 사랑스러운 우리 아이에게 특별한 스타일을 선물하고 싶으신가요? 스페인 키즈 패션 브랜드 '보보쇼즈'는 독창적인 디자인과 뛰어난 품질로 전 세계 부모님들의 마음을 사로잡고 있습니다. 아이들의 상상력을 자극하는 유니크한 패턴과 감각적인 색감, 그리고 활동량이 많은 아이들을 위한 편안한 착용감은 보보쇼즈가 가진 강력한 선택 포인트입니다. 환경을 생각하는 친환경 소재 사용 역시 브랜드의 가치를 더합니다. 아이의 개성을 존중하는 트렌디한 패션을 찾는 분께 최적의 선택이 될 것입니다.
@@ -36,7 +36,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 1위 — 보보쇼즈 26SS 아동 반팔 티셔츠 BOBO BY HAND T-
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9411357802&traceid=V0-153&itemId=27964382148&vendorItemId=94922394769" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/43c4/e03193964314d7840b5b10cc6d16f4003a68ae74fc8a56b21da62adcb324.jpeg" alt="1위 - 보보쇼즈 26SS 아동 반팔 티셔츠 BOBO BY HAND T-SHIRT B126AC138" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9411357802&traceid=V0-153&itemId=27964382148&vendorItemId=94922394769" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/43c4/e03193964314d7840b5b10cc6d16f4003a68ae74fc8a56b21da62adcb324.jpeg" alt="1위 - 보보쇼즈 26SS 아동 반팔 티셔츠 BOBO BY HAND T-SHIRT B126AC138" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**보보쇼즈 26SS 아동 반팔 티셔츠 BOBO BY HAND T-SHIRT B126AC138**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9411357802&traceid=V0-153&itemId=27964382148&vendorItemId=94922394769)
 
@@ -46,7 +46,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 1위 상품인 '보보쇼즈 26SS 아동 반팔 티셔츠'는 브랜드의 아이덴티티가 잘 드러난 제품입니다. 손으로 그린 듯한 유니크한 그래픽과 부드러운 소재가 특징이며, 어떤 하의와도 잘 어울려 데일리룩으로 활용하기에 안성맞춤입니다. 아이들의 활동성을 고려한 편안한 핏으로, 착용하는 내내 만족감을 드릴 것입니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9411357802&traceid=V0-153&itemId=27964382148&vendorItemId=94922394769" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9411357802&traceid=V0-153&itemId=27964382148&vendorItemId=94922394769" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -54,7 +54,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 2위 — 나이키 키즈 운동화 편안한 찍찍이 벨크로 아동화 (루쏠짐쌕가방지
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9366649634&traceid=V0-153&itemId=27795655255&vendorItemId=94755811872" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/be68/508aadd5ba4142949beb1d75cb84a26ec9d5035852a7d92aacf2e212c7ad.png" alt="2위 - 나이키 키즈 운동화 편안한 찍찍이 벨크로 아동화 (루쏠짐쌕가방지급)" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9366649634&traceid=V0-153&itemId=27795655255&vendorItemId=94755811872" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/be68/508aadd5ba4142949beb1d75cb84a26ec9d5035852a7d92aacf2e212c7ad.png" alt="2위 - 나이키 키즈 운동화 편안한 찍찍이 벨크로 아동화 (루쏠짐쌕가방지급)" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**나이키 키즈 운동화 편안한 찍찍이 벨크로 아동화 (루쏠짐쌕가방지급)**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9366649634&traceid=V0-153&itemId=27795655255&vendorItemId=94755811872)
 
@@ -65,7 +65,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 2위 '나이키 키즈 운동화'는 보보쇼즈 의류와 훌륭하게 매치될 수 있는 기능성 아이템입니다. 아이들이 스스로 신고 벗기 편한 찍찍이 벨크로 디자인으로 활동적인 우리 아이에게 최적입니다. 편안한 착용감과 뛰어난 내구성을 자랑하며, 보보쇼즈의 다채로운 색감 의류에 안정감을 더해주는 실용적인 선택입니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9366649634&traceid=V0-153&itemId=27795655255&vendorItemId=94755811872" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9366649634&traceid=V0-153&itemId=27795655255&vendorItemId=94755811872" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -73,7 +73,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 3위 — 보보쇼즈 키즈 버뮤다 반바지 B126AC061 3174631
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9489669840&traceid=V0-153&itemId=28261782713&vendorItemId=95215027591" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/e507/816a968495f0bbafe9e06adeca55f8cee46d6d854e46f12e176262d610ef.png" alt="3위 - 보보쇼즈 키즈 버뮤다 반바지 B126AC061 3174631" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9489669840&traceid=V0-153&itemId=28261782713&vendorItemId=95215027591" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/e507/816a968495f0bbafe9e06adeca55f8cee46d6d854e46f12e176262d610ef.png" alt="3위 - 보보쇼즈 키즈 버뮤다 반바지 B126AC061 3174631" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**보보쇼즈 키즈 버뮤다 반바지 B126AC061 3174631**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9489669840&traceid=V0-153&itemId=28261782713&vendorItemId=95215027591)
 
@@ -83,7 +83,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 3위 상품인 '보보쇼즈 키즈 버뮤다 반바지'는 다가오는 여름에 아이의 스타일 지수를 높여줄 트렌디한 아이템입니다. 통기성 좋은 소재와 여유로운 핏으로 아이들이 활동하기에 매우 편안하며, 보보쇼즈 특유의 감각적인 컬러와 디자인이 돋보입니다. 어떤 상의와 매치해도 세련된 룩을 완성할 수 있습니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9489669840&traceid=V0-153&itemId=28261782713&vendorItemId=95215027591" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9489669840&traceid=V0-153&itemId=28261782713&vendorItemId=95215027591" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -94,7 +94,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 4위 — [보보쇼즈] B126AC096 461 피클스 더 독 라이트 데님
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9591750207&traceid=V0-153&itemId=28632951636&vendorItemId=95575957255" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/794a/aa97d3c6c8d5524eb7ca210ead98c60d80cbac8503f3e4d4b955c989c199.jpg" alt="4위 - [보보쇼즈] B126AC096 461 피클스 더 독 라이트 데님 아동 긴바지" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9591750207&traceid=V0-153&itemId=28632951636&vendorItemId=95575957255" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/794a/aa97d3c6c8d5524eb7ca210ead98c60d80cbac8503f3e4d4b955c989c199.jpg" alt="4위 - [보보쇼즈] B126AC096 461 피클스 더 독 라이트 데님 아동 긴바지" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**[보보쇼즈] B126AC096 461 피클스 더 독 라이트 데님 아동 긴바지**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9591750207&traceid=V0-153&itemId=28632951636&vendorItemId=95575957255)
 
@@ -102,7 +102,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: **149,000원**
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9591750207&traceid=V0-153&itemId=28632951636&vendorItemId=95575957255" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9591750207&traceid=V0-153&itemId=28632951636&vendorItemId=95575957255" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -110,7 +110,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 5위 — 와이비비 남아 트럭 중장비 자동차 사각 팬티 (KC)
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7693102096&traceid=V0-153&itemId=20577673161&vendorItemId=89138851160" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/533f/ed12611a0cb9850c87feb8c49e8b607b5cfd49d81c36eb94e336f5037211.png" alt="5위 - 와이비비 남아 트럭 중장비 자동차 사각 팬티 (KC)" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7693102096&traceid=V0-153&itemId=20577673161&vendorItemId=89138851160" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/533f/ed12611a0cb9850c87feb8c49e8b607b5cfd49d81c36eb94e336f5037211.png" alt="5위 - 와이비비 남아 트럭 중장비 자동차 사각 팬티 (KC)" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**와이비비 남아 트럭 중장비 자동차 사각 팬티 (KC)**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7693102096&traceid=V0-153&itemId=20577673161&vendorItemId=89138851160)
 
@@ -119,7 +119,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: **14,500원**
 - 리뷰수: 672개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7693102096&traceid=V0-153&itemId=20577673161&vendorItemId=89138851160" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7693102096&traceid=V0-153&itemId=20577673161&vendorItemId=89138851160" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -127,7 +127,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 6위 — 위드오가닉 신생아용 출산선물 10종 세트
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9248311&traceid=V0-153&itemId=40608831&vendorItemId=3061573058" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/80524496914866-1f091e17-0084-48fd-ad09-a2e8cd346409.jpg" alt="6위 - 위드오가닉 신생아용 출산선물 10종 세트" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9248311&traceid=V0-153&itemId=40608831&vendorItemId=3061573058" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/80524496914866-1f091e17-0084-48fd-ad09-a2e8cd346409.jpg" alt="6위 - 위드오가닉 신생아용 출산선물 10종 세트" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**위드오가닉 신생아용 출산선물 10종 세트**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9248311&traceid=V0-153&itemId=40608831&vendorItemId=3061573058)
 
@@ -136,7 +136,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: **53,420원**
 - 리뷰수: 503개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9248311&traceid=V0-153&itemId=40608831&vendorItemId=3061573058" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9248311&traceid=V0-153&itemId=40608831&vendorItemId=3061573058" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -144,7 +144,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 7위 — 보보쇼즈 퀼팅 키즈 조깅 팬츠 B225AC070 2556670
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9174680969&traceid=V0-153&itemId=27045352740&vendorItemId=94013781841" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/e507/816a968495f0bbafe9e06adeca55f8cee46d6d854e46f12e176262d610ef.png" alt="7위 - 보보쇼즈 퀼팅 키즈 조깅 팬츠 B225AC070 2556670" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9174680969&traceid=V0-153&itemId=27045352740&vendorItemId=94013781841" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/e507/816a968495f0bbafe9e06adeca55f8cee46d6d854e46f12e176262d610ef.png" alt="7위 - 보보쇼즈 퀼팅 키즈 조깅 팬츠 B225AC070 2556670" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**보보쇼즈 퀼팅 키즈 조깅 팬츠 B225AC070 2556670**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9174680969&traceid=V0-153&itemId=27045352740&vendorItemId=94013781841)
 
@@ -152,7 +152,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: ~~151,500원~~ → **106,100원** (29% 할인)
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9174680969&traceid=V0-153&itemId=27045352740&vendorItemId=94013781841" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9174680969&traceid=V0-153&itemId=27045352740&vendorItemId=94013781841" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -160,7 +160,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 8위 — [보보쇼즈] B126AC012 611 썸머 스토리 아동 반팔티
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9591482929&traceid=V0-153&itemId=28632059899&vendorItemId=95575109169" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/0fb2/afd8c5ea23acf9858480025e15b00de9687507046d608ce2a2dbf384e0fd.jpg" alt="8위 - [보보쇼즈] B126AC012 611 썸머 스토리 아동 반팔티" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9591482929&traceid=V0-153&itemId=28632059899&vendorItemId=95575109169" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/0fb2/afd8c5ea23acf9858480025e15b00de9687507046d608ce2a2dbf384e0fd.jpg" alt="8위 - [보보쇼즈] B126AC012 611 썸머 스토리 아동 반팔티" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**[보보쇼즈] B126AC012 611 썸머 스토리 아동 반팔티**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9591482929&traceid=V0-153&itemId=28632059899&vendorItemId=95575109169)
 
@@ -168,7 +168,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: **71,900원**
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9591482929&traceid=V0-153&itemId=28632059899&vendorItemId=95575109169" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9591482929&traceid=V0-153&itemId=28632059899&vendorItemId=95575109169" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -176,7 +176,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 9위 — 시로카라 주니어 남여공용 클래식 백팩 23컬러
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7568682503&traceid=V0-153&itemId=19955387835&vendorItemId=88254271293" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/3080753093822154-421a3164-4a4f-4b0e-b030-454cc1044cac.jpg" alt="9위 - 시로카라 주니어 남여공용 클래식 백팩 23컬러" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7568682503&traceid=V0-153&itemId=19955387835&vendorItemId=88254271293" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/3080753093822154-421a3164-4a4f-4b0e-b030-454cc1044cac.jpg" alt="9위 - 시로카라 주니어 남여공용 클래식 백팩 23컬러" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**시로카라 주니어 남여공용 클래식 백팩 23컬러**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7568682503&traceid=V0-153&itemId=19955387835&vendorItemId=88254271293)
 
@@ -185,7 +185,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~98,000원~~ → **69,790원** (28% 할인)
 - 리뷰수: 358개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7568682503&traceid=V0-153&itemId=19955387835&vendorItemId=88254271293" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=7568682503&traceid=V0-153&itemId=19955387835&vendorItemId=88254271293" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -193,7 +193,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 10위 — 보보쇼즈 키즈 컬러 로고 올오버 반팔(멀티) B126AC137
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9489669424&traceid=V0-153&itemId=28293565099&vendorItemId=95246439740" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/e507/816a968495f0bbafe9e06adeca55f8cee46d6d854e46f12e176262d610ef.png" alt="10위 - 보보쇼즈 키즈 컬러 로고 올오버 반팔(멀티) B126AC137 199 3174629" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9489669424&traceid=V0-153&itemId=28293565099&vendorItemId=95246439740" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/e507/816a968495f0bbafe9e06adeca55f8cee46d6d854e46f12e176262d610ef.png" alt="10위 - 보보쇼즈 키즈 컬러 로고 올오버 반팔(멀티) B126AC137 199 3174629" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**보보쇼즈 키즈 컬러 로고 올오버 반팔(멀티) B126AC137 199 3174629**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9489669424&traceid=V0-153&itemId=28293565099&vendorItemId=95246439740)
 
@@ -201,7 +201,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: ~~169,800원~~ → **118,900원** (29% 할인)
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9489669424&traceid=V0-153&itemId=28293565099&vendorItemId=95246439740" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9489669424&traceid=V0-153&itemId=28293565099&vendorItemId=95246439740" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 

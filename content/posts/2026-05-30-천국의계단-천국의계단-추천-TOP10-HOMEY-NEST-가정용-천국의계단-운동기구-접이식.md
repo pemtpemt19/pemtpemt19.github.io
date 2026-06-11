@@ -14,7 +14,7 @@ cover:
   relative: false
 images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/04c5/642406558ed17336451053fd2d9a7a68d4e510971fb522f46d3541d4911e.png"]
 ---
-
+<style>@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0 12px!important}.cpg-btn{display:block!important;width:100%;box-sizing:border-box;text-align:center;padding:14px!important;font-size:16px!important}}</style>
 **천국의계단** 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다.
 
 > 바쁜 일상 속에서 효과적인 유산소 운동을 원하신다면 가정용 천국의 계단을 추천해 드립니다. 공간 활용을 위한 접이식 기능, 층간 소음을 줄여주는 저소음 설계, 그리고 안전을 위한 지지대 유무를 확인하는 것이 선택의 핵심 포인트입니다. 집에서도 헬스장 못지않은 고강도 하체 운동을 안전하고 편리하게 시작해 보시기 바랍니다.
@@ -29,7 +29,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 1위 — HOMEY NEST 가정용 천국의계단 운동기구 접이식 실내 운동
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9515394586&traceid=V0-153&itemId=28359953652&vendorItemId=95311982541" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/04c5/642406558ed17336451053fd2d9a7a68d4e510971fb522f46d3541d4911e.png" alt="1위 - HOMEY NEST 가정용 천국의계단 운동기구 접이식 실내 운동기구, 화이트" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9515394586&traceid=V0-153&itemId=28359953652&vendorItemId=95311982541" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/04c5/642406558ed17336451053fd2d9a7a68d4e510971fb522f46d3541d4911e.png" alt="1위 - HOMEY NEST 가정용 천국의계단 운동기구 접이식 실내 운동기구, 화이트" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**HOMEY NEST 가정용 천국의계단 운동기구 접이식 실내 운동기구, 화이트**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9515394586&traceid=V0-153&itemId=28359953652&vendorItemId=95311982541)
 
@@ -40,7 +40,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: HOMEY NEST 상품은 접이식 보관 기능이 뛰어나 좁은 공간에서도 효율적으로 보관할 수 있습니다. 129,000원의 합리적인 가격 대비 우수한 성능을 제공합니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9515394586&traceid=V0-153&itemId=28359953652&vendorItemId=95311982541" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9515394586&traceid=V0-153&itemId=28359953652&vendorItemId=95311982541" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -48,7 +48,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 2위 — 브리핏 가정용 천국의계단 운동기구, 크림화이트
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8984893810&traceid=V0-153&itemId=26412321308&vendorItemId=93393836106" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/c42f/92e90f0e4a706bccd633d67df040ccd127a3a2bf5106568a810baa99108b.png" alt="2위 - 브리핏 가정용 천국의계단 운동기구, 크림화이트" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8984893810&traceid=V0-153&itemId=26412321308&vendorItemId=93393836106" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/c42f/92e90f0e4a706bccd633d67df040ccd127a3a2bf5106568a810baa99108b.png" alt="2위 - 브리핏 가정용 천국의계단 운동기구, 크림화이트" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**브리핏 가정용 천국의계단 운동기구, 크림화이트**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8984893810&traceid=V0-153&itemId=26412321308&vendorItemId=93393836106)
 
@@ -59,7 +59,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 브리핏 상품은 2,335개의 많은 리뷰가 증명하듯 높은 대중적 신뢰도를 자랑합니다. 깔끔한 크림화이트 디자인으로 실내에 잘 어울리며, 흔들림 없는 운동이 가능합니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8984893810&traceid=V0-153&itemId=26412321308&vendorItemId=93393836106" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8984893810&traceid=V0-153&itemId=26412321308&vendorItemId=93393836106" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -67,7 +67,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 3위 — 휴아 가정용 천국의 계단 스텝퍼 계단오르기 홈트 스텝밀 유산소
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8936629471&traceid=V0-153&itemId=26129250947&vendorItemId=93228574439" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/stage/manual/edfc42ed9fea0e08bad134ca52fe8d8afa8db58046b4b9f8a6328b23ec12_1760518020823.jpg" alt="3위 - 휴아 가정용 천국의 계단 스텝퍼 계단오르기 홈트 스텝밀 유산소 운동기구, 화이트" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8936629471&traceid=V0-153&itemId=26129250947&vendorItemId=93228574439" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/stage/manual/edfc42ed9fea0e08bad134ca52fe8d8afa8db58046b4b9f8a6328b23ec12_1760518020823.jpg" alt="3위 - 휴아 가정용 천국의 계단 스텝퍼 계단오르기 홈트 스텝밀 유산소 운동기구, 화이트" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**휴아 가정용 천국의 계단 스텝퍼 계단오르기 홈트 스텝밀 유산소 운동기구, 화이트**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8936629471&traceid=V0-153&itemId=26129250947&vendorItemId=93228574439)
 
@@ -78,7 +78,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 휴아 상품은 94,810원의 가장 저렴한 가격으로 구매 부담을 크게 낮춘 실속형 기구입니다. 콤팩트한 크기로 좁은 실내 공간에서도 효과적인 하체 운동이 가능합니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8936629471&traceid=V0-153&itemId=26129250947&vendorItemId=93228574439" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8936629471&traceid=V0-153&itemId=26129250947&vendorItemId=93228574439" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -89,7 +89,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 4위 — 초강력 내구성! 과체중 스페셜 가정용 천국의계단 스텝퍼 접이식
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9406249115&traceid=V0-153&itemId=27944166893&vendorItemId=94902430952" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/stage/manual/4a51493cb77002d0555cbafcffa889f9d3cf2972295b60221297305b218b_1779086320535.jpg" alt="4위 - 초강력 내구성! 과체중 스페셜 가정용 천국의계단 스텝퍼 접이식 컴팩트 보관, 흰색" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9406249115&traceid=V0-153&itemId=27944166893&vendorItemId=94902430952" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/stage/manual/4a51493cb77002d0555cbafcffa889f9d3cf2972295b60221297305b218b_1779086320535.jpg" alt="4위 - 초강력 내구성! 과체중 스페셜 가정용 천국의계단 스텝퍼 접이식 컴팩트 보관, 흰색" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**초강력 내구성! 과체중 스페셜 가정용 천국의계단 스텝퍼 접이식 컴팩트 보관, 흰색**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9406249115&traceid=V0-153&itemId=27944166893&vendorItemId=94902430952)
 
@@ -98,7 +98,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~150,000원~~ → **96,800원** (35% 할인)
 - 리뷰수: 32개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9406249115&traceid=V0-153&itemId=27944166893&vendorItemId=94902430952" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9406249115&traceid=V0-153&itemId=27944166893&vendorItemId=94902430952" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -106,7 +106,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 5위 — 지압 스텝퍼 발지압 혈지압 다이어트 가정용 에어 무소음 홈트레이
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9485517364&traceid=V0-153&itemId=28246125051&vendorItemId=95199592777" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/dfcf/f6d6f73289217a466a8fabf55b2b5ed97ec9533caf93590e1eca9ff9a51c.jpg" alt="5위 - 지압 스텝퍼 발지압 혈지압 다이어트 가정용 에어 무소음 홈트레이닝기구, 보라" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9485517364&traceid=V0-153&itemId=28246125051&vendorItemId=95199592777" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/dfcf/f6d6f73289217a466a8fabf55b2b5ed97ec9533caf93590e1eca9ff9a51c.jpg" alt="5위 - 지압 스텝퍼 발지압 혈지압 다이어트 가정용 에어 무소음 홈트레이닝기구, 보라" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**지압 스텝퍼 발지압 혈지압 다이어트 가정용 에어 무소음 홈트레이닝기구, 보라**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9485517364&traceid=V0-153&itemId=28246125051&vendorItemId=95199592777)
 
@@ -114,7 +114,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: ~~28,900원~~ → **11,900원** (58% 할인)
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9485517364&traceid=V0-153&itemId=28246125051&vendorItemId=95199592777" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9485517364&traceid=V0-153&itemId=28246125051&vendorItemId=95199592777" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -122,7 +122,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 6위 — 브리핏 가정용 천국의계단 운동기구, 크림화이트
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8984893810&traceid=V0-153&itemId=26412321308&vendorItemId=93393836106" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/c42f/92e90f0e4a706bccd633d67df040ccd127a3a2bf5106568a810baa99108b.png" alt="6위 - 브리핏 가정용 천국의계단 운동기구, 크림화이트" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8984893810&traceid=V0-153&itemId=26412321308&vendorItemId=93393836106" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/c42f/92e90f0e4a706bccd633d67df040ccd127a3a2bf5106568a810baa99108b.png" alt="6위 - 브리핏 가정용 천국의계단 운동기구, 크림화이트" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**브리핏 가정용 천국의계단 운동기구, 크림화이트**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8984893810&traceid=V0-153&itemId=26412321308&vendorItemId=93393836106)
 
@@ -131,7 +131,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~189,900원~~ → **159,900원** (15% 할인)
 - 리뷰수: 2,335개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8984893810&traceid=V0-153&itemId=26412321308&vendorItemId=93393836106" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8984893810&traceid=V0-153&itemId=26412321308&vendorItemId=93393836106" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -139,7 +139,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 7위 — VITIME 가정용 스텝퍼 클라이머 천국의계단 스텝밀 유산소 홈
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9252486256&traceid=V0-153&itemId=27367713005&vendorItemId=94790478854" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/a50b/c15a9dcb1705c7d75afd3b84e3a8cfdff5fac844d1f07ce6e86025d218bd.jpg" alt="7위 - VITIME 가정용 스텝퍼 클라이머 천국의계단 스텝밀 유산소 홈트 실내 하체, 화이트" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9252486256&traceid=V0-153&itemId=27367713005&vendorItemId=94790478854" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/a50b/c15a9dcb1705c7d75afd3b84e3a8cfdff5fac844d1f07ce6e86025d218bd.jpg" alt="7위 - VITIME 가정용 스텝퍼 클라이머 천국의계단 스텝밀 유산소 홈트 실내 하체, 화이트" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**VITIME 가정용 스텝퍼 클라이머 천국의계단 스텝밀 유산소 홈트 실내 하체, 화이트**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9252486256&traceid=V0-153&itemId=27367713005&vendorItemId=94790478854)
 
@@ -148,7 +148,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~90,000원~~ → **61,000원** (32% 할인)
 - 리뷰수: 20개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9252486256&traceid=V0-153&itemId=27367713005&vendorItemId=94790478854" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9252486256&traceid=V0-153&itemId=27367713005&vendorItemId=94790478854" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -156,7 +156,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 8위 — 무브핏 힙클라임 가정용 천국의계단 스텝퍼 홈트, 화이트
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8551344922&traceid=V0-153&itemId=24760802263&vendorItemId=92189361273" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/bcb0/3d336986e4dc4d1421ac2fed376fa868f298853fbf60683ea89f3c08732b.png" alt="8위 - 무브핏 힙클라임 가정용 천국의계단 스텝퍼 홈트, 화이트" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8551344922&traceid=V0-153&itemId=24760802263&vendorItemId=92189361273" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/bcb0/3d336986e4dc4d1421ac2fed376fa868f298853fbf60683ea89f3c08732b.png" alt="8위 - 무브핏 힙클라임 가정용 천국의계단 스텝퍼 홈트, 화이트" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**무브핏 힙클라임 가정용 천국의계단 스텝퍼 홈트, 화이트**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8551344922&traceid=V0-153&itemId=24760802263&vendorItemId=92189361273)
 
@@ -165,7 +165,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~314,910원~~ → **159,000원** (49% 할인)
 - 리뷰수: 1,837개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8551344922&traceid=V0-153&itemId=24760802263&vendorItemId=92189361273" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8551344922&traceid=V0-153&itemId=24760802263&vendorItemId=92189361273" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -173,7 +173,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 9위 — 베벨로 스텝온 가정용 천국의계단 스텝퍼 클라이머 하체 유산소 운
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9188067798&traceid=V0-153&itemId=27107845685&vendorItemId=94075956995" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/0edd/83963d12ee57bad4950e107527c9aa6dc4e3a7f5c7352296848efa74f37e.png" alt="9위 - 베벨로 스텝온 가정용 천국의계단 스텝퍼 클라이머 하체 유산소 운동 기구 HL-SM01, HL-SM01(직접조" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9188067798&traceid=V0-153&itemId=27107845685&vendorItemId=94075956995" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/0edd/83963d12ee57bad4950e107527c9aa6dc4e3a7f5c7352296848efa74f37e.png" alt="9위 - 베벨로 스텝온 가정용 천국의계단 스텝퍼 클라이머 하체 유산소 운동 기구 HL-SM01, HL-SM01(직접조" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**베벨로 스텝온 가정용 천국의계단 스텝퍼 클라이머 하체 유산소 운동 기구 HL-SM01, HL-SM01(직접조립)**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9188067798&traceid=V0-153&itemId=27107845685&vendorItemId=94075956995)
 
@@ -181,7 +181,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: ~~320,000원~~ → **109,620원** (65% 할인)
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9188067798&traceid=V0-153&itemId=27107845685&vendorItemId=94075956995" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9188067798&traceid=V0-153&itemId=27107845685&vendorItemId=94075956995" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -189,7 +189,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 10위 — 시모네 천국의 계단 가정용 계단오르기 스텝퍼, 화이트
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9158475046&traceid=V0-153&itemId=26975444658&vendorItemId=93944305899" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/2e1c/6728b299c89e75aa976489391fb181579dee85e14b0da4da5dd0cec9fed5.png" alt="10위 - 시모네 천국의 계단 가정용 계단오르기 스텝퍼, 화이트" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9158475046&traceid=V0-153&itemId=26975444658&vendorItemId=93944305899" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/2e1c/6728b299c89e75aa976489391fb181579dee85e14b0da4da5dd0cec9fed5.png" alt="10위 - 시모네 천국의 계단 가정용 계단오르기 스텝퍼, 화이트" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**시모네 천국의 계단 가정용 계단오르기 스텝퍼, 화이트**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9158475046&traceid=V0-153&itemId=26975444658&vendorItemId=93944305899)
 
@@ -198,7 +198,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~97,110원~~ → **83,220원** (14% 할인)
 - 리뷰수: 10개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9158475046&traceid=V0-153&itemId=26975444658&vendorItemId=93944305899" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9158475046&traceid=V0-153&itemId=26975444658&vendorItemId=93944305899" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
