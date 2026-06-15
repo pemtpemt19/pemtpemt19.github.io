@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "어뉴골프웨어"]
 keywords: ["어뉴골프웨어", "Top10", "shopping"]
 author: "pemtpemt19"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "이 글에서는 어뉴골프웨어 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 필드 위에서 당신의 스타일과 퍼포먼스를 한 단계 높여줄 어뉴골프웨어는 단순한 의류를 넘어섭니다. 고급스러운 디자인과 기능성을 겸비하여 라운딩의 품격을 더해주며, 최상의 착용감으로…"
+summary: "이 글에서는 어뉴골프웨어 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 필드 위에서 당신의 스타일과 퍼포먼스를 한 단계 높여줄 어뉴골프웨어는 단순한 의류를 넘어섭니다. 고급스러운 디자인과 기능성을 겸비하여 라운딩의 품격을 더해주며, 최상의 착용감으로…"
 cover:
   image: "https://ads-partners.coupang.com/image1/m1vjKVBGlOv2jxJUmyMON_O2Rl01qybWQ8quUMquEIfe6Js6cME5G67XttTK4XKn0uJQ-S2GqP15OgoqU1k-5kOGl43H1v-IaYRG_Y-mlqNAIqQwBjSZDdAg9XVkCMZgv83AyrEpyq0aVr_Yh7CweaWGwjiN9t1ODmgvGTTiwHWF1-Wr0LvEuHQG-UjBOdJwu_FI780Vsw7Zl-8DLXyWAXOqjfqtslOpA7igWs5j-zXERSJ7VDalXf8zq87nnka4-eXn9okSzcRL40ZOt4HIG3i8mcWvGGleL9BGA4nGGQtmNZ0HM79Xo5-_GgcyW1cJfwHjdNQ1uv9q5XFIrhE="
   alt: "어뉴골프웨어 추천 TOP10 — [ANEWGOLF] 어뉴골프반팔티 VQA QCYAGGM"
