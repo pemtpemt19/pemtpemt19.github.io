@@ -1,14 +1,14 @@
 ---
-title: "sunhokey 패들보드 추천 TOP10 — 2026년 9월 기준"
+title: "sunhokey 패들보드 추천 TOP10 — 2026년 7월 기준"
 date: 2026-07-27T20:50:13+09:00
-lastmod: 2026-09-16
+lastmod: 2026-10-18
 draft: false
 categories: ["shopping"]
 tags: ["Top10", "shopping", "패들보드"]
 keywords: ["패들보드", "Top10", "shopping"]
 author: "pemtpemt19"
-description: "sunhokey 패들보드 추천 TOP10 (2026년 9월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
-summary: "sunhokey 패들보드 추천 TOP10 (2026년 9월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
+description: "sunhokey 패들보드 추천 TOP10 (2026년 7월). 가격·평점·로켓배송 비교를 정리했습니다."
+summary: "sunhokey 패들보드 추천 TOP10 (2026년 7월). 가격·평점·로켓배송 비교를 정리했습니다."
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/508a/618c3241cd19a048db94f406cd214a1fb3cf27c76bfa9cf505fe76681f89.jpg"
   alt: "패들보드 추천 TOP10 — SUNHOKEY 공기주입식 패들보드 SUP 서핑보드 대"
